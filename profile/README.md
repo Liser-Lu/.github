@@ -14,5 +14,3 @@ The objectives of this Github organization are:
 
 **To do list for each LISER member:**
 
-
-:wheel:

@@ -7,6 +7,6 @@ The objectives of this Github organization are:
 
 
 **General rules:**
-* by default, create only private repositories (i.e. restricted to LISER) - so don't fear to experiment and make mistakes (learning by doing, is the way to go :) )
+* by default, create only private repositories (i.e. restricted to LISER) - so don't fear to experiment and make mistakes (learning by doing, is the way to go :smile: )
 * to make a private repository go public, it is necessary to contact one of the Owners/Administrators (Adam, Terry or Etienne) in order to check if there is no sensitive data
 

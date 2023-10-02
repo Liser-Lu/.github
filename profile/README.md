@@ -8,9 +8,11 @@ The objectives of this Github organization are:
 * centralize all the information and links to relevant resources (e.g. [`Datasets-and-Methods`](https://github.com/Liser-Lu/Datasets-and-Methods)) 
 * collect information about skills of current and past people at LISER, in order to find the right person to ask, foster more collaboration, create new and better ideas (e.g. [`Datasets-and-Methods`](https://github.com/Liser-Lu/Datasets-and-Methods)) 
 
-**General rules:**
+**General Rules for Repositories:**
 * by default, create only private repositories (i.e. restricted to LISER) - so don't fear to experiment and make mistakes (learning by doing, is the way to go :blush:)
 * to make a private repository go public, it is necessary to contact one of the Owners/Administrators (Adam, Terry or Etienne) in order to check if there is no sensitive data
 
 **To do list for each LISER member:**
-
+1) Add information about the Methods and Softwares you "used/are using/plan to use"
+2) Share code from your past/current research that can be useful for others ("data cleaning", "descriptive stats")
+  - Create/add private repository titled with the name of the dataset you

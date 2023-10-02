@@ -1,6 +1,9 @@
 ## LISER 
 
-This Github organization contains repositories made by researchers, postdocs and PhD students at LISER. The objective is to make it easier to share code for complicated tasks, either during the data cleaning or during the analysis. 
+This Github organization contains repositories made by researchers, postdocs and PhD students at LISER. 
+The objectives of this Github organization are: 
+* collaborate and share code
+* centralize all the information and links to relevant resources (e.g. methods and datasets) 
 
 The repository [`Datasets-and-Methods`](https://github.com/Liser-Lu/Datasets-and-Methods) contains:
 

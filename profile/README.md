@@ -6,7 +6,7 @@ The objectives of this Github organization are:
 * centralize all the information and links to relevant resources (e.g. [`Datasets-and-Methods`](https://github.com/Liser-Lu/Datasets-and-Methods)) 
 
 
-General rules:
-* by default, all the repositories are made private (i.e. restricted to LISER) - so don't fear to experiment and make mistakes
+**General rules:**
+* by default, create only private repositories (i.e. restricted to LISER) - so don't fear to experiment and make mistakes
 * to make a private repository go public, it is necessary to contact one of the Owners/Administrators (Adam, Terry or Etienne) in order to check if there is no sensitive data
 

@@ -13,6 +13,6 @@ The objectives of this Github organization are:
 * to make a private repository go public, it is necessary to contact one of the Owners/Administrators (Adam, Terry or Etienne) in order to check if there is no sensitive data
 
 **To do list for each LISER member:**
-1) Add information about the Methods and Softwares you "used/are using/plan to use"
-2) Share code (parts or all) from your past/current research that can be useful for others ("data cleaning", "descriptive stats")
-  To do so, create (if one there is none) repository titled with the name of the dataset used (or project), and share parts of your code that can be of use to others
+1. Add information about the Methods and Softwares you "used/are using/plan to use"
+2. Share code (parts or all) from your past/current research that can be useful for others ("data cleaning", "descriptive stats")
+  2.1. To do so, create (if one there is none) repository titled with the name of the dataset used (or project), and share parts of your code that can be of use to others

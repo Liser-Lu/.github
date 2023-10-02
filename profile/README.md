@@ -17,16 +17,10 @@ The objectives of this Github organization are:
  2. Share code (parts or all) from your past/current research that can be useful for others ("data cleaning", "descriptive stats")
   
   2.1 To do so, create (if one there is none) repository titled with the name of the dataset used (or project), and share parts of your code that can be of use to others
-    
-    2.2 sdf 
+
 
 1. List item__  
   1.1 List item
 2. List item
 
-    
- 1. List item__  
-  1.1. List item
- 2. List item
-  2.1. tests
-  2.2. new st
+

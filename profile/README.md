@@ -14,7 +14,7 @@ The objectives of this Github organization are:
 * to make a private repository go public, it is necessary to contact one of the Owners/Administrators (Adam, Terry or Etienne) in order to check if there is no sensitive data
 
 **To do list for each LISER member:**
- 1. Add information in excel about the Methods and Softwares you "used/are using/plan to use" ([`Datasets_MethodsAndSoftwares_Code`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares_Code))
+ 1. Add information in excel about the Datasets, Methods and Softwares you "used/are using/plan to use" ([`Datasets_MethodsAndSoftwares_Code`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares_Code))
  2. Share code (parts or all) from your past/current research that can be useful for others ("data cleaning", "descriptive stats")
     * To do so, create (if one there is none) repository titled with the name of the dataset used (or project)
 

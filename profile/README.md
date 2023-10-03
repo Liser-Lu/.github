@@ -4,10 +4,10 @@
 
 This Github organization contains repositories made by researchers, postdocs and PhD students at LISER. 
 The objectives of this Github organization are: 
-* collaborate and share code for a given dataset or project (e.g. [`OJV`](https://github.com/Liser-Lu/OJV),[`ChatGPT`](https://github.com/Liser-Lu/ChatGPT))
+* collaborate and share code for a given dataset or project (e.g. see repository [`OJV`](https://github.com/Liser-Lu/OJV),[`ChatGPT`](https://github.com/Liser-Lu/ChatGPT))
   * the idea is when someone works with a new dataset then they should not reinvent the wheel  if someone already did that (rather focus on improving the previous work).
-* centralize all the information and links to relevant resources (e.g. [`Datasets_MethodsAndSoftwares_Code`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares_Code)) 
-* collect information about skills of current and past people at LISER, in order to find the right person to ask, foster more collaboration, create new and better ideas (e.g. [`Datasets_MethodsAndSoftwares_Code`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares_Code)) 
+* centralize all the information and links to relevant resources (e.g. see repository [`Datasets_MethodsAndSoftwares_Code`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares_Code)) 
+* collect information about skills of current and past people at LISER, in order to find the right person to ask, foster more collaboration, create new and better ideas (e.g. see repository [`Datasets_MethodsAndSoftwares_Code`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares_Code)) 
 
 **General Rules for Repositories:**
 * by default, create only private repositories (i.e. restricted to LISER) - so don't fear to experiment and make mistakes (learning by doing, is the way to go :blush:)

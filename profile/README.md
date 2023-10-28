@@ -1,8 +1,8 @@
 ## LISER 
 
-**Purpose:**
+This GitHub organization hosts repositories created by LISER researchers, postdocs, and PhD students. 
 
-This GitHub organization hosts repositories created by LISER researchers, postdocs, and PhD students. Our objectives are to:
+**Purpose:**
 * Collaborate and share code for datasets or projects, reducing duplication and encouraging improvement (when someone works with a new dataset then they should not reinvent the wheel by cleaning it again, but rather focus on improving the previous work).
 * Centralize information and links to relevant resources (e.g., datasets), 
 * Collect information about the skills of current and past LISER members to foster collaboration and generate new ideas.

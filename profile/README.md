@@ -12,5 +12,5 @@ This GitHub organization hosts repositories created by LISER researchers, postdo
 * Contact Owners/Administrators (Adam, Terry, or Etienne) to make a private repository public if there is no sensitive data.
 
 **Action Steps for each LISER member:**
- 1.	Add information to the Excel sheet about the datasets, methods, and software you've used, are using, or plan to use (Visit the [`Datasets_MethodsAndSoftwares_Code`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares) repository);
+ 1.	Add information to the Excel sheet about the datasets, methods, and software you've used, are using, or plan to use (Visit the [`Datasets_MethodsAndSoftwares`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares) repository);
  2. Share code from your research, such as data cleaning and descriptive stats, by creating a repository named after the dataset or project). Need help? Take a look at the [`Getting Started`](https://github.com/Liser-Lu/Getting-started) repository.

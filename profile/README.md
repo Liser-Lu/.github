@@ -1,3 +1,7 @@
+<!--
+IF YOU CHANGE SOMETHING HERE, DO NOT FORGET TO ALSO EDIT THE README IN ".github-private"
+-->
+
 ## LISER 
 
 This GitHub organization hosts repositories created by LISER researchers, postdocs, and PhD students. 
